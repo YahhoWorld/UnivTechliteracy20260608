@@ -71,7 +71,7 @@
 }
 
 .movie {
-	width: 930px;
+	/* width: 930px; */
 	max-width: 90%;
 	background-color: #f8f8f8;
 	padding: 50px 60px;
